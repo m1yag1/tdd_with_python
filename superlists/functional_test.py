@@ -3,6 +3,8 @@ import unittest
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
+from chromedriver_binary import  add_chromedriver_to_path
+
 
 class NewVisitorTest(unittest.TestCase):
 
