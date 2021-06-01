@@ -1,4 +1,4 @@
 Django==1.8
 selenium==3.141.0
-urllib3==1.24.1
+urllib3==1.26.5
 chromedriver-binary==76.0.3809.68.0
